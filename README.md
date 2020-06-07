@@ -13,7 +13,7 @@ chromedriver.exe: Is is a web driver.
 run.sh: It contains the shell script for running test_scrapper.py and webscrapping.py files.
 
 
-Information about configuration file
+Information about configuration file:
 
 website_url:The url to be used for scraping.
 select_option_for_data: The option needed to be selected for getting the data.By default it is Indices S&P 500.
