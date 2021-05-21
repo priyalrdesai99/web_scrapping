@@ -1,5 +1,5 @@
 # web_scrapping
- An application which scraps the Symbols and their Names form from the url given in configuration file and gives the Name of the desired Symbols inputted through file in Json format.
+ An application which scraps the Symbols and their Names from the url given in configuration file and gives the Name of the desired Symbols inputted through file in Json format.
 
 Files:
 
